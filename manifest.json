@@ -1,0 +1,89 @@
+{
+ "blanks": {
+  "Black": [
+   "blanks/gildan-64000/Black/PP-Blank-Black-S1.jpg",
+   "blanks/gildan-64000/Black/PP-Blank-Black-S3.jpg",
+   "blanks/gildan-64000/Black/PP-Blank-Black-S4.jpg",
+   "blanks/gildan-64000/Black/PP-Blank-Black-S5.jpg",
+   "blanks/gildan-64000/Black/PP-Blank-Black-S6.jpg",
+   "blanks/gildan-64000/Black/PP-Blank-Black-S7.jpg"
+  ],
+  "Dark Heather Grey": [
+   "blanks/gildan-64000/Dark-Heather-Grey/PP-Blank-Dark-Heather-Grey-S1.jpg",
+   "blanks/gildan-64000/Dark-Heather-Grey/PP-Blank-Dark-Heather-Grey-S3.jpg",
+   "blanks/gildan-64000/Dark-Heather-Grey/PP-Blank-Dark-Heather-Grey-S4.jpg",
+   "blanks/gildan-64000/Dark-Heather-Grey/PP-Blank-Dark-Heather-Grey-S5.jpg",
+   "blanks/gildan-64000/Dark-Heather-Grey/PP-Blank-Dark-Heather-Grey-S7.jpg"
+  ],
+  "Fan Candy Pink": [
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S1.jpg",
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S3.jpg",
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S4.jpg",
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S5.jpg",
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S6.jpg",
+   "blanks/gildan-64000/Fan-Candy-Pink/PP-Blank-Fan-Candy-Pink-S7.jpg"
+  ],
+  "Heather Maroon": [
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S1.jpg",
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S3.jpg",
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S4.jpg",
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S5.jpg",
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S6.jpg",
+   "blanks/gildan-64000/Heather-Maroon/PP-Blank-Heather-Maroon-S7.jpg"
+  ],
+  "Military Green": [
+   "blanks/gildan-64000/Military-Green/PP-Blank-Military-Green-S1.png",
+   "blanks/gildan-64000/Military-Green/PP-Blank-Military-Green-S2.png",
+   "blanks/gildan-64000/Military-Green/PP-Blank-Military-Green-S3.png",
+   "blanks/gildan-64000/Military-Green/PP-Blank-Military-Green-S4.png",
+   "blanks/gildan-64000/Military-Green/PP-Blank-Military-Green-S5.png"
+  ],
+  "Navy": [
+   "blanks/gildan-64000/Navy/PP-Blank-Navy-S1.jpg",
+   "blanks/gildan-64000/Navy/PP-Blank-Navy-S4.jpg",
+   "blanks/gildan-64000/Navy/PP-Blank-Navy-S5.jpg",
+   "blanks/gildan-64000/Navy/PP-Blank-Navy-S6.jpg",
+   "blanks/gildan-64000/Navy/PP-Blank-Navy-S7.jpg"
+  ],
+  "Royal": [
+   "blanks/gildan-64000/Royal/PP-Blank-Royal-S1.jpg",
+   "blanks/gildan-64000/Royal/PP-Blank-Royal-S4.jpg",
+   "blanks/gildan-64000/Royal/PP-Blank-Royal-S5.jpg",
+   "blanks/gildan-64000/Royal/PP-Blank-Royal-S6.jpg"
+  ],
+  "Sand": [
+   "blanks/gildan-64000/Sand/PP-Blank-Sand-S1.jpg",
+   "blanks/gildan-64000/Sand/PP-Blank-Sand-S4.jpg",
+   "blanks/gildan-64000/Sand/PP-Blank-Sand-S5.jpg",
+   "blanks/gildan-64000/Sand/PP-Blank-Sand-S6.jpg"
+  ],
+  "Sport Grey": [
+   "blanks/gildan-64000/Sport-Grey/PP-Blank-Sport-Grey-S1.jpg",
+   "blanks/gildan-64000/Sport-Grey/PP-Blank-Sport-Grey-S3.jpg",
+   "blanks/gildan-64000/Sport-Grey/PP-Blank-Sport-Grey-S5.jpg",
+   "blanks/gildan-64000/Sport-Grey/PP-Blank-Sport-Grey-S6.jpg"
+  ],
+  "Stone Blue": [
+   "blanks/gildan-64000/Stone-Blue/PP-Blank-Stone-Blue-S1.jpg",
+   "blanks/gildan-64000/Stone-Blue/PP-Blank-Stone-Blue-S3.jpg",
+   "blanks/gildan-64000/Stone-Blue/PP-Blank-Stone-Blue-S4.jpg",
+   "blanks/gildan-64000/Stone-Blue/PP-Blank-Stone-Blue-S5.jpg",
+   "blanks/gildan-64000/Stone-Blue/PP-Blank-Stone-Blue-S6.jpg"
+  ],
+  "White": [
+   "blanks/gildan-64000/White/PP-Blank-White-S1.jpg",
+   "blanks/gildan-64000/White/PP-Blank-White-S4.jpg",
+   "blanks/gildan-64000/White/PP-Blank-White-S5.jpg",
+   "blanks/gildan-64000/White/PP-Blank-White-S6.jpg",
+   "blanks/gildan-64000/White/PP-Blank-White-S7.jpg"
+  ]
+ },
+ "info-cards": [
+  "info-cards/gildan-64000/PP-Info-ColorChart-G64000.png",
+  "info-cards/gildan-64000/PP-Info-Features-Fabric-G64000.png",
+  "info-cards/gildan-64000/PP-Info-SizeGuide-G64000-Green.png",
+  "info-cards/gildan-64000/PP-Info-SizeGuide-G64000-Grey.png",
+  "info-cards/gildan-64000/PP-Info-SizeGuide-G64000-Icons.png",
+  "info-cards/gildan-64000/PP-SizeGuide-CC1717.png"
+ ]
+}
