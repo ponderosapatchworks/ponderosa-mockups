@@ -85,5 +85,27 @@
   "info-cards/gildan-64000/PP-Info-SizeGuide-G64000-Grey.png",
   "info-cards/gildan-64000/PP-Info-SizeGuide-G64000-Icons.png",
   "info-cards/gildan-64000/PP-SizeGuide-CC1717.png"
- ]
+ ],
+ "listings": {
+  "HeartBeatDrummer": [
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-01-Black-S6.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-02-Black-S3.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-03-Navy-S4.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-04-DarkHeatherGrey-S5.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-05-HeatherMaroon-S6.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-06-Royal-S1.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-07-StoneBlue-S1.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-08-SportGrey-S3.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-09-Sand-S4.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-10-FanCandyPink-S5.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-11-White-S6.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-12-Black-S7.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-13-Navy-S7.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-14-DarkHeatherGrey-S1.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-15-HeatherMaroon-S3.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-16-Royal-S4.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-17-StoneBlue-S5.jpg",
+   "listings/HeartBeatDrummer/PP-HBD-HeartBeatDrummer-18-SportGrey-S6.jpg"
+  ]
+ }
 }
