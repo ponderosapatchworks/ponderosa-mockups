@@ -306,6 +306,26 @@
       "listings/PercussionistDefinition/PP-PercussionistDefinition-16-Royal-S1.jpg",
       "listings/PercussionistDefinition/PP-PercussionistDefinition-17-StoneBlue-S1.jpg",
       "listings/PercussionistDefinition/PP-PercussionistDefinition-18-SportGrey-S3.jpg"
+    ],
+    "MeetingDrumSolo": [
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-01-Black-S4.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-02-Black-S5.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-03-Navy-S5.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-04-DarkHeatherGrey-S7.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-05-HeatherMaroon-S7.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-06-Royal-S1.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-07-StoneBlue-S3.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-08-SportGrey-S5.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-09-Sand-S5.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-10-FanCandyPink-S6.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-11-White-S7.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-12-Black-S7.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-13-Navy-S1.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-14-DarkHeatherGrey-S3.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-15-HeatherMaroon-S4.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-16-Royal-S5.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-17-StoneBlue-S6.jpg",
+      "listings/MeetingDrumSolo/PP-MeetingDrumSolo-18-SportGrey-S1.jpg"
     ]
   },
   "designs": [
@@ -328,6 +348,8 @@
     "designs/PP-Paradiddle-darkink.png",
     "designs/PP-Paradiddle-lightink.png",
     "designs/PP-PercussionistDefinition-darkink.png",
-    "designs/PP-PercussionistDefinition-lightink.png"
+    "designs/PP-PercussionistDefinition-lightink.png",
+    "designs/PP-MeetingDrumSolo-darkink.png",
+    "designs/PP-MeetingDrumSolo-lightink.png"
   ]
 }
